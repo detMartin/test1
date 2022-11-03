@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\Wood Pellets\bin\Debug\net6.0\Wood Pellets.exe
+C:\Users\Bruger\source\repos\Wood Pellets\bin\Debug\net6.0\Wood Pellets.deps.json
+C:\Users\Bruger\source\repos\Wood Pellets\bin\Debug\net6.0\Wood Pellets.runtimeconfig.json
+C:\Users\Bruger\source\repos\Wood Pellets\bin\Debug\net6.0\Wood Pellets.dll
+C:\Users\Bruger\source\repos\Wood Pellets\bin\Debug\net6.0\Wood Pellets.pdb
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.dll
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\refint\Wood Pellets.dll
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.pdb
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\Wood Pellets.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\Wood Pellets\obj\Debug\net6.0\ref\Wood Pellets.dll
